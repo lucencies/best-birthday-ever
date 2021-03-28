@@ -3,4 +3,6 @@ body {
   font-family: "Comic Sans MS", cursive, sans-serif !important;
   font-size: 18px;
   color: magenta !important;
+  background-image: url("source.gif");
+  background-repeat: repeat-y;
 }
