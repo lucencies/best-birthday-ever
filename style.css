@@ -6,3 +6,8 @@ body {
   background-image: url("source.gif");
   background-repeat: repeat-y;
 }
+
+.virusButton {
+  padding: 20px;
+  color: black;
+}
