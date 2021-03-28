@@ -7,7 +7,24 @@ body {
   background-repeat: repeat-y;
 }
 
-.virusButton {
+.virus-button {
   padding: 20px;
   color: black;
+}
+
+.virus-header {
+  color: red;
+  background-color: lightgrey;
+  border: 5px solid blue;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.virus-body {
+  color: red;
+  border: 5px solid orange;
+  border-top: 5px solid blue;
+}
+
+.grid-thing {
+  border: 5px dashed yellow;
 }
